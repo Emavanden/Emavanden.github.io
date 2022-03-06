@@ -42,6 +42,9 @@ ol, ul {
 blockquote, q {
 	quotes: none;
 }
+.a {
+    color:cornflowerblue;
+    }
 
 	blockquote:before, blockquote:after, q:before, q:after {
 		content: '';
@@ -774,6 +777,15 @@ input, select, textarea {
 				width: 100%;
 			}
 
+    .video {
+            display: center;
+			margin: 0 0 3em 0;
+            max-width: 50%;
+            height: auto;
+        }
+
+
+
 /* List */
 
 	ol {
@@ -1333,8 +1345,9 @@ input, select, textarea {
     .taille {
 	max-width: 40%;
     }
-
-
+    .tailles {
+        max-width: 60%;
+        }
 
 /* Header */
 
