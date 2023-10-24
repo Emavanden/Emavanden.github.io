@@ -113,7 +113,7 @@ input, select, textarea {
 			-webkit-transition: none !important;
 			-ms-transition: none !important;
 			transition: none !important;
-			background-color: black;
+			background-color: #000000;
 		}
 
 /* Type */
