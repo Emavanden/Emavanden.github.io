@@ -315,6 +315,8 @@ input, select, textarea {
 		font-size: 0.7em;
 	}
 
+	.maDiv {display: flex;}
+
 	.blurb p {
 		font-size: 0.9em;
 	}
